@@ -49,3 +49,5 @@ login system using django
 *if you have any problem with the running the project not able to run command like * ```pipenv```* head over this site *
 https://docs.python-guide.org/dev/virtualenvs/#:~:text=Pipenv%20is%20a%20dependency%20manager,management%20for%20common%20use%20cases 
 
+for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
+
